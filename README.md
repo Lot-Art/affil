@@ -1,0 +1,2 @@
+# affil
+Affiliate resources
